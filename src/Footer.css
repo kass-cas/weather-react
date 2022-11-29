@@ -1,0 +1,12 @@
+.footer {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.source-code-link {
+  text-decoration: none;
+}
+
+.source-code-link:hover {
+  text-decoration: underline;
+}
