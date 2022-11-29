@@ -4,7 +4,7 @@ import "./App.css";
 import "./Forecast.css";
 import "./Footer.css";
 import "./Weather.css";
-import axios from "axios";
+//import axios from "axios";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function Weather() {
