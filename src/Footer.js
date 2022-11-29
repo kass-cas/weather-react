@@ -11,8 +11,7 @@ export default function Footer() {
           className="source-code-link"
         >
           Open-source code
-        </a>
-        {""}
+        </a>{" "}
         by Kassandra Castillo
       </small>
     </div>
