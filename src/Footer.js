@@ -5,8 +5,9 @@ export default function Footer() {
     <div className="footer">
       <small>
         <a
-          href="https.//github.com/kass-cas/weather-react"
+          href="https://github.com/kass-cas/weather-react"
           target="_blank"
+          rel="noreferrer"
           className="source-code-link"
         >
           Open-source code
